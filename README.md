@@ -46,10 +46,8 @@ Servo rotation is converted into linear or pulsed motion through fishing lines c
 
 ## Contributions
 
-- Designed embedded control using ESP32 and PCA9685
-- Implemented sinusoidal motion control
-- Created multi-channel phase-shifted actuation
-- Designed mechanical transmission system
-- Tuned parameters for stable and smooth motion
+- Designed a kinetic art installation using an ESP32 and PCA9685 servo driver to create dynamic breathing motion
+- Engineered fishing lines and thumbtacks to translate torque from servo motors into rhythmic pulses of acrylic pieces
+- Developed custom control logic to generate unique sinusoidal motion to create separate channels with phase differences
 
 ---
